@@ -1,7 +1,7 @@
 # Seudev's VSCode configs
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/Seudev.vscode-configs.png)](https://marketplace.visualstudio.com/items?itemName=Seudev.vscode-configs)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Seudev.vscode-configs.png)](https://marketplace.visualstudio.com/items?itemName=Seudev.vscode-configs)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/Seudev.vscode-configs)](https://marketplace.visualstudio.com/items?itemName=Seudev.vscode-configs)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/Seudev.vscode-configs)](https://marketplace.visualstudio.com/items?itemName=Seudev.vscode-configs)
 
 The Seudev's Visual Studio Code configs
 
